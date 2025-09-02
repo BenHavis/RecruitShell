@@ -1,0 +1,36 @@
+.layout {
+  min-height: 100vh;
+  background: #fff;
+}
+
+.content {
+  padding: 80px 24px;
+  text-align: center;
+}
+
+.hero {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.subheader {
+  margin-top: 8px;
+  font-weight: 400;
+  color: #555;
+}
+
+.body {
+  margin: 24px 0;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.footer {
+  text-align: center;
+  background: #fff !important;
+  padding: 24px 0;
+  border-top: 1px solid #f0f0f0;
+  font-size: 14px;
+  color: #888;
+}
